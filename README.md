@@ -35,6 +35,6 @@ Note: the enhancement index plot uses a symlog scale to show both the large supe
 pip install brian2 numpy matplotlib
 
 ## How to Run
-python multisensory_snn.ipynb
+The script was written in Google Colab. Open `multisensory_snn.ipynb` in Google Colab or Jupyter and run all cells in order.
 
 License: MIT
