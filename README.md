@@ -35,6 +35,6 @@ Note: the enhancement index plot uses a symlog scale to show both the large supe
 pip install brian2 numpy matplotlib
 
 ## How to Run
-python multisensory_snn.py
+python multisensory_snn.ipynb
 
 License: MIT
