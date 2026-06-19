@@ -1,3 +1,7 @@
+# Multisensory-Integration
+A minimal spiking LIF neuron model demonstrating super-additive, additive, and sub-additive responses emerging from threshold and refractory period dynamics alone.
+
+
 ## Background
 Multisensory integration is a phenomenon where a neural circuit receives input from more than one modality and integrates 
 them in a way that the resultant response differs from the linear combination of the modalities. For example, the superior colliculus receives input from visual and auditory modalities. The neurons present in the superior colliculus integrate the incoming input in such a way that it results in super-additivity (when the response is more than the linear sum), additivity (when the response is somewhat equal to the linear sum) or sub-additivity (when the response is less than the linear sum). 
